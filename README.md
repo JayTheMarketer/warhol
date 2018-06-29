@@ -1,6 +1,6 @@
 # warhol
 
-Colorize command output using grc and dircolors
+Colorize command output using grc and lscolors
 
 ## Installing
 
