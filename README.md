@@ -19,7 +19,7 @@ If you're using [oh-my-zsh](github.com/robbyrussell/oh-my-zsh):
 1. Clone the repository into a new `warhol` directory in your custom plugins:
 
     ```zsh
-    git clone https://github.com/unixorn/warhol $ZSH_CUSTOM/plugins/warhol
+    git clone https://github.com/JayTheMarketer/warhol $ZSH_CUSTOM/plugins/warhol
     ```
 
 2. Edit your `~/.zshrc` and add `warhol` – same as clone directory – to the list of plugins to enable:
