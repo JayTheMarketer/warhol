@@ -44,8 +44,8 @@ If you're using [oh-my-zsh](github.com/robbyrussell/oh-my-zsh):
 2. Add its bin directory to your $PATH and source it in your `.zshrc` file.
 
     ```zsh
-    echo "export PATH=/path/to/here/warhol:$PATH >> ~/.zshrc
-    echo "source /path/to/here/warhol" >> ~/.zshrc
+    echo "export PATH=/path/to/warhol:$PATH" >> ~/.zshrc
+    echo "source /path/to/warhol" >> ~/.zshrc
     ```
 
 The scripts in here don't actually require you to be using ZSH as your login shell, they're being distributed as a [zgen](https://github.com/zsh-users/antigen) plugin because that's convenient.
