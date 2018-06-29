@@ -44,7 +44,7 @@ If you're using [oh-my-zsh](github.com/robbyrussell/oh-my-zsh):
 2. Add its bin directory to your $PATH and source it in your `.zshrc` file.
 
     ```zsh
-    echo "export PATH=/path/to/warhol:$PATH" >> ~/.zshrc
+    echo "export PATH=/path/to/warhol/bin:$PATH" >> ~/.zshrc
     echo "source /path/to/warhol" >> ~/.zshrc
     ```
 
