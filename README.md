@@ -41,10 +41,13 @@ If you're using [oh-my-zsh](github.com/robbyrussell/oh-my-zsh):
     ```zsh
     git clone git@github.com:JayTheMarketer/warhol.git
     ```
-2. Add its bin directory to your $PATH and source it in your `.zshrc` file.
+2. Add warhol's bin directory to your $PATH.
 
     ```zsh
     echo "export PATH=/path/to/warhol/bin:$PATH" >> ~/.zshrc
+    ```
+2. Source warhol in your `.zshrc` file.   
+    ```zsh
     echo "source /path/to/warhol" >> ~/.zshrc
     ```
 
